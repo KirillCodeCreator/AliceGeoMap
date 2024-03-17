@@ -68,3 +68,10 @@ def get_country(city_name):
             'GeocoderMetaData']['AddressDetails']['Country']['CountryName']
     except Exception as e:
         return e
+
+
+def get_geo_info(city_name, type_info):
+    if type_info == 'country':
+        return get_country(city_name)
+    elif type_info == 'coordinates':
+        return get_coordinates(city_name)
