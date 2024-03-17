@@ -2,11 +2,11 @@
 
 ## Тестирование из сети интернет
 ### Адрес размещения в Glitch
-live: https://chief-branched-archduke.glitch.me
-code: https://glitch.com/edit/#!/chief-branched-archduke
+live: https://gem-chlorinated-climb.glitch.me
+code: https://glitch.com/edit/#!/gem-chlorinated-climb
 
-## Тестирование навыка в Алисе "Угадай город Кирилла"
-https://dialogs.yandex.ru/developer/skills/671bdda6-84ac-4e0a-9ef3-65dd500f3a66/draft/test
+## Тестирование навыка в Алисе "Карты Кирилла"
+https://dialogs.yandex.ru/developer/skills/fcae10a1-7e13-40ef-9ab2-7af60f122a30/draft/test
 
 ## Если навык не работает или не отвечает Webhook URL
 при тестировании навыка может выдаваться строка, что Webhook URL не отвечает.
