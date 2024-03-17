@@ -1,10 +1,5 @@
 # Задачи Алиса и карты + Страна и координаты
 
-## Тестирование из сети интернет
-### Адрес размещения в Glitch
-live: https://gem-chlorinated-climb.glitch.me
-code: https://glitch.com/edit/#!/gem-chlorinated-climb
-
 ## Тестирование навыка в Алисе "Карты Кирилла"
 https://dialogs.yandex.ru/developer/skills/fcae10a1-7e13-40ef-9ab2-7af60f122a30/draft/test
 
